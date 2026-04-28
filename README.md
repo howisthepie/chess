@@ -2,8 +2,6 @@
 
 A beautiful, high-performance chess application built with React, Vite, and Supabase. Play against a powerful Stockfish AI, track your progress, and enjoy a premium gaming experience with smooth animations and high-quality sound effects.
 
-![Chess Screenshot](https://raw.githubusercontent.com/howisthepie/chess/main/public/og-image.png) *(Note: Add your own screenshot here)*
-
 ## ✨ Features
 
 -   **🎮 Powerful AI**: Integrated Stockfish engine running in a Web Worker for smooth, challenging gameplay without UI lag.
