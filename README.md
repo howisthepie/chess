@@ -2,6 +2,12 @@
 
 A beautiful, high-performance chess application built with React, Vite, and Supabase. Play against a powerful Stockfish AI, track your progress, and enjoy a premium gaming experience with smooth animations and high-quality sound effects.
 
+This app is a modern web-based chess platform focused on smooth user experience, performance, and accessibility. The goal of the project was not just to recreate a chess board, but to build a product that feels immersive, responsive, and scalable as a real service.
+The platform allows users to play against a powerful Stockfish AI with smooth gameplay powered by Web Workers, preventing UI lag during move calculations. The application also includes cloud synchronization with Supabase, authentication, responsive mobile support, replay functionality, custom themes, dark/light modes, and immersive sound effects.
+Unlike many traditional chess websites that often feel overloaded or outdated, ChessMind focuses on fast onboarding, clean design, and a modern user experience. Users can instantly start playing without registration thanks to a local-first architecture, while optional accounts allow syncing progress across devices.
+This project demonstrates not only frontend development skills, but also product thinking, performance optimization, and focus on user engagement and retention.
+Tech Stack: React, Vite, TypeScript, Supabase, Stockfish, Tailwind CSS.
+
 ## ✨ Features
 
 -   **🎮 Powerful AI**: Integrated Stockfish engine running in a Web Worker for smooth, challenging gameplay without UI lag.
